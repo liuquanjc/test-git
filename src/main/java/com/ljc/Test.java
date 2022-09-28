@@ -6,6 +6,6 @@ public class Test {
         System.out.println("hello java1");
         System.out.println("hello java5");
         System.out.println("hello java6");
-        System.out.println("hello 网上修改");
+        System.out.println("hello 网上修改1");
     }
 }
